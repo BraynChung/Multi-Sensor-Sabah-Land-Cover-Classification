@@ -40,9 +40,11 @@ flowchart TD
 
 ```
 
-## 🗺️ Interactive High-Resolution Map
+## 🗺️ Interactive Web Map
 
-Click the preview map below to explore the full-resolution interactive dataset (zoom & pan):
+Click the link or map preview below to explore the full-resolution interactive dataset with pan and zoom capabilities:
+
+👉 **[Launch Interactive Sabah Land Cover Map](https://braynchung.github.io/Multi-Sensor-Sabah-Land-Cover-Classification/)**
 
 [![Interactive Sabah Land Cover Map](sabah_landcover_map.png)](https://braynchung.github.io/Multi-Sensor-Sabah-Land-Cover-Classification/)
 ---
