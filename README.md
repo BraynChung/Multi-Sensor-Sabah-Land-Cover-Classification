@@ -47,7 +47,7 @@ Click the link or map preview below to explore the full-resolution interactive d
 👉 **[Launch Interactive Sabah Land Cover Map](https://braynchung.github.io/Multi-Sensor-Sabah-Land-Cover-Classification/)**
 
 <!-- If the image is inside the docs folder: -->
-[![Interactive Sabah Land Cover Map](docs/static_map.tiff)](https://braynchung.github.io/Multi-Sensor-Sabah-Land-Cover-Classification/)
+[![Interactive Sabah Land Cover Map](docs/static_map.png)](https://braynchung.github.io/Multi-Sensor-Sabah-Land-Cover-Classification/)
 ---
 
 ## 🚀 Key Features
