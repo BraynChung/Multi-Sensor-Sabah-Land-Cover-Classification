@@ -61,13 +61,13 @@ Click the link or map preview below to explore the full-resolution interactive d
 
 ## 📊 Classification Palette
 
-| Class ID | Class Name | Swatch | Color Code | Description |
-| --- | --- | --- | --- | --- |
-| **`0`** | **Water Bodies** | 🔵 | `#0000FF` | Marine, coastal, lakes, and river systems |
-| **`1`** | **Cropland** | 🟢 | `#00FF00` | Plantations, agricultural zones, clearings |
-| **`2`** | **Forest** | 🌲 | `#006400` | Primary & secondary dense tropical forest canopy |
-| **`3`** | **Urban / Built-up** | ⬛ | `#000000` | High-density urban areas, roads, exposed rock |
-| **`4`** | **Rangeland / Grass** | 🟧 | `#FFA500` | Open grass, scrublands, low vegetation |
+| Class ID | Class Name | Swatch | Color Code | Cartographic Description |
+| :---: | :--- | :---: | :---: | :--- |
+| **`0`** | **Water Bodies** | `![#1F78B4](https://img.shields.io/badge/-1F78B4-1F78B4)` | `#1F78B4` | **Hydrological Blue:** Marine, coastal, lakes, and river systems |
+| **`1`** | **Cropland** | `![#B2DF8A](https://img.shields.io/badge/-B2DF8A-B2DF8A)` | `#B2DF8A` | **Light Agricultural Green:** Plantations, crops, and agricultural clearings |
+| **`2`** | **Forest** | `![#1E5631](https://img.shields.io/badge/-1E5631-1E5631)` | `#1E5631` | **Deep Canopy Green:** Primary and secondary tropical rainforest canopy |
+| **`3`** | **Urban** | `![#E31A1C](https://img.shields.io/badge/-E31A1C-E31A1C)` | `#E31A1C` | **Cartographic Red:** High-density settlements, roads, and concrete structures |
+| **`4`** | **Rangeland** | `![#FDBF6F](https://img.shields.io/badge/-FDBF6F-FDBF6F)` | `#FDBF6F` | **Scrubland Gold:** Open grasslands, savannah, and low scrub vegetation |
 
 ---
 
