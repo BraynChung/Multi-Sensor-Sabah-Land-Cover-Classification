@@ -63,11 +63,11 @@ Click the link or map preview below to explore the full-resolution interactive d
 
 | Class ID | Class Name | Swatch | Color Code | Cartographic Description |
 | :---: | :--- | :---: | :---: | :--- |
-| **`0`** | **Water Bodies** | ![](https://img.shields.io/badge/-%20-6e9ce1) | `#6e9ce1` | **Soft Blue:** Coastal, marine, and inland water bodies |
-| **`1`** | **Cropland** | ![](https://img.shields.io/badge/-%20-25dc10) | `#25dc10` | **Bright Green:** Plantations, agricultural land, and crop fields |
-| **`2`** | **Forest** | ![](https://img.shields.io/badge/-%20-143f26) | `#143f26` | **Dark Canopy Green:** Dense tropical forest canopy |
-| **`3`** | **Urban / Built-up** | ![](https://img.shields.io/badge/-%20-050601) | `#050601` | **Dark Charcoal:** Roads, urban infrastructure, and exposed rock |
-| **`4`** | **Rangeland / Grass** | ![](https://img.shields.io/badge/-%20-e3c304) | `#e3c304` | **Gold / Yellow:** Open grasslands, scrublands, and clearings |
+| **`0`** | **Water Bodies** | ![](https://img.shields.io/badge/%20-%20-6e9ce1?labelColor=6e9ce1) | `#6e9ce1` | **Soft Blue:** Coastal, marine, and inland water bodies |
+| **`1`** | **Cropland** | ![](https://img.shields.io/badge/%20-%20-25dc10?labelColor=25dc10) | `#25dc10` | **Bright Green:** Plantations, agricultural land, and crop fields |
+| **`2`** | **Forest** | ![](https://img.shields.io/badge/%20-%20-143f26?labelColor=143f26) | `#143f26` | **Dark Canopy Green:** Dense tropical forest canopy |
+| **`3`** | **Urban / Built-up** | ![](https://img.shields.io/badge/%20-%20-050601?labelColor=050601) | `#050601` | **Dark Charcoal:** Roads, urban infrastructure, and exposed rock |
+| **`4`** | **Rangeland / Grass** | ![](https://img.shields.io/badge/%20-%20-e3c304?labelColor=e3c304) | `#e3c304` | **Gold / Yellow:** Open grasslands, scrublands, and clearings |
 ---
 
 ## 💻 Earth Engine Code (`sabah_landcover_mapping.js`)
