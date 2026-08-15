@@ -50,14 +50,6 @@ Click the link or map preview below to explore the full-resolution interactive d
 [![Interactive Sabah Land Cover Map](docs/static_map.png)](https://braynchung.github.io/Multi-Sensor-Sabah-Land-Cover-Classification/)
 ---
 
-## 🚀 Key Features
-
-* 🌤️ **Pixel-Level Cloud Filtering:** Utilizes Sentinel-2's Scene Classification Layer (`SCL`) to remove shadows, high/medium cloud probabilities, and thin cirrus.
-* 📈 **Percentile Compositing:** Employs $P_{90}$ for peak canopy vegetation greenness while filtering transient cloud artifacts across a 2-year temporal window (2023–2024).
-* 📡 **SAR Penetration:** Blends Sentinel-1 VV and VH backscatter percentiles to differentiate structural features, wet soil, and canopy density independent of weather.
-* 🎨 **Direct RGB Visual Export:** Uses GEE's `.visualize()` method to export pre-colored 3-band GeoTIFF rasters directly readable in QGIS.
-
----
 
 ## 📊 Classification Palette
 
@@ -69,6 +61,16 @@ Click the link or map preview below to explore the full-resolution interactive d
 | **`3`** | **Urban / Built-up** | ![](https://img.shields.io/badge/%20-050601) | `#050601` | **Dark Charcoal:** Roads, urban infrastructure, and exposed rock |
 | **`4`** | **Rangeland / Grass** | ![](https://img.shields.io/badge/%20-e3c304) | `#e3c304` | **Gold / Yellow:** Open grasslands, scrublands, and clearings |
 ---
+
+## 🚀 Key Features
+
+* 🌤️ **Pixel-Level Cloud Filtering:** Utilizes Sentinel-2's Scene Classification Layer (`SCL`) to remove shadows, high/medium cloud probabilities, and thin cirrus.
+* 📈 **Percentile Compositing:** Employs $P_{90}$ for peak canopy vegetation greenness while filtering transient cloud artifacts across a 2-year temporal window (2023–2024).
+* 📡 **SAR Penetration:** Blends Sentinel-1 VV and VH backscatter percentiles to differentiate structural features, wet soil, and canopy density independent of weather.
+* 🎨 **Direct RGB Visual Export:** Uses GEE's `.visualize()` method to export pre-colored 3-band GeoTIFF rasters directly readable in QGIS.
+
+---
+
 
 ## 💻 Earth Engine Code (`sabah_landcover_mapping.js`)
 
