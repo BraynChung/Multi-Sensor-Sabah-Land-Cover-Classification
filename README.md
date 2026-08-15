@@ -15,18 +15,27 @@
 ## 🎨 Workflow Architecture
 
 ```mermaid
-graph TD
+flowchart TD
+    A["🛰️ Sentinel-2 L2A Optical<br/>SCL Masking + Percentiles"]
+    B["🛰️ Sentinel-1 GRD SAR<br/>VV/VH Descending Percentiles"]
+    C["⚡ Multi-Sensor Composite<br/>Spectral + Radar Bands"]
+    D["🌲 Random Forest Engine<br/>80 Decision Trees"]
+    E["🗺️ Classified Land Cover Map<br/>30m Resolution GeoTIFF"]
+
+    A --> C
+    B --> C
+    C --> D
+    D --> E
+
     classDef optical fill:#1e3d59,stroke:#17b978,stroke-width:2px,color:#fff;
     classDef sar fill:#3a1f5d,stroke:#9d4edd,stroke-width:2px,color:#fff;
     classDef stack fill:#17b978,stroke:#0f5257,stroke-width:2px,color:#000;
     classDef model fill:#2e7d32,stroke:#a3b18a,stroke-width:2px,color:#fff;
 
-    A[🛰️ Sentinel-2 L2A Optical<br/>SCL Masking + Percentiles] :::optical --> C[⚡ Multi-Sensor Composite<br/>Spectral + Radar Bands] :::stack
-    B[🛰️ Sentinel-1 GRD SAR<br/>VV/VH Descending Percentiles] :::sar --> C
-    C --> D[🌲 Random Forest Engine<br/>80 Decision Trees] :::model
-    D --> E[🗺️ Classified Land Cover Map<br/>30m Resolution GeoTIFF]
-
-```
+    class A optical;
+    class B sar;
+    class C stack;
+    class D model;
 
 ---
 
