@@ -1,4 +1,4 @@
-
+[static_map.tiff](https://github.com/user-attachments/files/31096880/static_map.tiff)
 
 # 🌴 Multi-Sensor Land Cover Classification | Sabah, Malaysia
 
@@ -40,11 +40,13 @@ flowchart TD
 
 ```
 
-## 🗺️ Interactive High-Resolution Map
+## 🗺️ Interactive Web Map
 
-Click the preview map below to explore the full-resolution interactive dataset (zoom & pan):
+Click the link or map preview below to explore the full-resolution interactive dataset with pan and zoom capabilities:
 
-[![Interactive Sabah Land Cover Map](sabah_landcover_map.png)](https://braynchung.github.io/Multi-Sensor-Sabah-Land-Cover-Classification/)
+👉 **[Launch Interactive Sabah Land Cover Map](https://braynchung.github.io/Multi-Sensor-Sabah-Land-Cover-Classification/)**
+
+[![Interactive Sabah Land Cover Map]([Uploading static_map.tiff…])](https://braynchung.github.io/Multi-Sensor-Sabah-Land-Cover-Classification/)
 ---
 
 ## 🚀 Key Features
