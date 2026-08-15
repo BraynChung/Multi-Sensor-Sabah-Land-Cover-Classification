@@ -1,4 +1,3 @@
-
 # 🌴 Multi-Sensor Land Cover Classification | Sabah, Malaysia
 
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
@@ -37,7 +36,6 @@ flowchart TD
     class C stack;
     class D model;
 
----
 
 ## 🚀 Key Features
 
