@@ -41,7 +41,7 @@ flowchart TD
 ```
 
 ## 🗺️ Classification Result
-<img width="829" height="680" alt="image" src="https://github.com/user-attachments/assets/4ea66cbd-a2b3-42e5-be48-6f267223d3a8" />
+[<img width="829" height="680" alt="image" src="https://github.com/user-attachments/assets/4ea66cbd-a2b3-42e5-be48-6f267223d3a8" />](https://braynchung.github.io/Multi-Sensor-Sabah-Land-Cover-Classification/)
 
 Figure 1: Multi-sensor Random Forest land cover classification map of Sabah, Malaysia (2023–2024).
 
