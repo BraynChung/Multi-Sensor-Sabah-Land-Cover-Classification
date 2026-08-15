@@ -63,11 +63,11 @@ Click the link or map preview below to explore the full-resolution interactive d
 
 | Class ID | Class Name | Swatch | Color Code | Cartographic Description |
 | :---: | :--- | :---: | :---: | :--- |
-| **`0`** | **Water Bodies** | `![#1F78B4](https://img.shields.io/badge/-1F78B4-1F78B4)` | `#1F78B4` | **Hydrological Blue:** Marine, coastal, lakes, and river systems |
-| **`1`** | **Cropland** | `![#B2DF8A](https://img.shields.io/badge/-B2DF8A-B2DF8A)` | `#B2DF8A` | **Light Agricultural Green:** Plantations, crops, and agricultural clearings |
-| **`2`** | **Forest** | `![#1E5631](https://img.shields.io/badge/-1E5631-1E5631)` | `#1E5631` | **Deep Canopy Green:** Primary and secondary tropical rainforest canopy |
-| **`3`** | **Urban** | `![#E31A1C](https://img.shields.io/badge/-E31A1C-E31A1C)` | `#E31A1C` | **Cartographic Red:** High-density settlements, roads, and concrete structures |
-| **`4`** | **Rangeland** | `![#FDBF6F](https://img.shields.io/badge/-FDBF6F-FDBF6F)` | `#FDBF6F` | **Scrubland Gold:** Open grasslands, savannah, and low scrub vegetation |
+| **`0`** | **Water Bodies** | ![](https://img.shields.io/badge/-%20-1F78B4) | `#1F78B4` | **Hydrological Blue:** Marine, coastal, lakes, and river systems |
+| **`1`** | **Cropland** | ![](https://img.shields.io/badge/-%20-B2DF8A) | `#B2DF8A` | **Light Agricultural Green:** Plantations, crops, and agricultural clearings |
+| **`2`** | **Forest** | ![](https://img.shields.io/badge/-%20-1E5631) | `#1E5631` | **Deep Canopy Green:** Primary and secondary tropical rainforest canopy |
+| **`3`** | **Urban / Built-up** | ![](https://img.shields.io/badge/-%20-E31A1C) | `#E31A1C` | **Cartographic Red:** High-density settlements, roads, and concrete structures |
+| **`4`** | **Rangeland / Grass** | ![](https://img.shields.io/badge/-%20-FDBF6F) | `#FDBF6F` | **Scrubland Gold:** Open grasslands, savannah, and low scrub vegetation |
 
 ---
 
